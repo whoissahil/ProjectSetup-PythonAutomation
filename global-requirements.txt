@@ -1,0 +1,2 @@
+virtualenv # Python library to create Virtual Environments
+PyGithub # Python library to use the Github API v3
