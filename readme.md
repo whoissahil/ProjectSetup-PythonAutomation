@@ -33,4 +33,4 @@ This script automates all the above things and gets the setup ready for you.
 
 :clap: the project on @[Medium](https://medium.com/@whoissahil/project-setup-python-automation-9fb59ae039b6) where i have explained what I have done in detail.
 
-Watch the complete installation and explanation video on [Youtube](https://www.youtube.com/watch?v=BqS7pPbB_os) and :+1: it!
+:+1: it on [Youtube](https://www.youtube.com/watch?v=BqS7pPbB_os) where you can learn the installation and the explanation of the project
